@@ -1,0 +1,58 @@
+html, body, ul, ol, li, h1, h2, h3, h4, h5, h6, p, form, input, div, footer {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    font-family: "Avenir Next";
+  }
+  
+  li {
+    list-style: none;
+  }
+  
+  header {
+    background-color: #769FFF;
+    color: #fff;
+    height: 90px;
+    font-family: 'Train One';
+  }
+  
+  .header-logo {
+    float: left;
+    font-size: 36px;
+    padding: 20px 20px;
+    font-family: 'Train One', cursive;
+  }
+  
+  .header-list li {
+    float: left;
+    padding: 33px 20px;
+  }
+  main {
+    padding: 100px 80px;
+  }
+
+  .Profile h2{
+    padding-top:16px;
+    padding-bottom:24px;
+  }
+
+  .Skill h2{
+    padding-top:16px;
+    padding-bottom:24px;
+  }
+
+  .Skill-item{
+    background-color:#76A6FF;
+    margin:0 auto;
+  }
+
+  .Portfolio h2{
+    padding-top:16px;
+    padding-bottom:24px;
+  }
+
+  footer {
+    background-color:#2F5498;
+    color:#fff;
+  }
