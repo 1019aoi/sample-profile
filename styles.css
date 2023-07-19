@@ -31,10 +31,16 @@ html, body, ul, ol, li, h1, h2, h3, h4, h5, h6, p, form, input, div, footer {
   main {
     padding: 100px 80px;
   }
+  
+  h2{
+    color:#03225b;
+
+    font-size: 30px;
+  }
 
   .Profile h2{
     padding-top:16px;
-    padding-bottom:24px;
+    padding: bottom 24px;
   }
 
   .Skill h2{
@@ -59,7 +65,7 @@ html, body, ul, ol, li, h1, h2, h3, h4, h5, h6, p, form, input, div, footer {
 
   @media (max-width:500px) {
     header-logo{
-      color: rgb(253, 255, 147);
+      color: rgb(254, 237, 139);
     }
     
     header {
@@ -70,9 +76,9 @@ html, body, ul, ol, li, h1, h2, h3, h4, h5, h6, p, form, input, div, footer {
       clear:both;
     }
 
-    .Profile h2{
-      font-size: 25px;
+    h2{
       padding-top:16px;
       padding-bottom:24px;
+      font-size: 35px;
     }
   }
