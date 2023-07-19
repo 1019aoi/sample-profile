@@ -61,4 +61,18 @@ html, body, ul, ol, li, h1, h2, h3, h4, h5, h6, p, form, input, div, footer {
     header-logo{
       color: rgb(253, 255, 147);
     }
+    
+    header {
+      height: 180px;
+    }
+
+    .header-list ul{
+      clear:both;
+    }
+
+    .Profile h2{
+      font-size: 25px;
+      padding-top:16px;
+      padding-bottom:24px;
+    }
   }
